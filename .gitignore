@@ -8,3 +8,4 @@ tmp/
 * .html_old
 # игнорируем расширение _backup
 *_backup
+test.txt
