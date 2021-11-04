@@ -9,3 +9,4 @@ tmp/
 # игнорируем расширение _backup
 *_backup
 test.txt
+img/.DS_Store
