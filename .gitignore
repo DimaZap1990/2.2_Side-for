@@ -10,3 +10,5 @@ tmp/
 *_backup
 test.txt
 img/.DS_Store
+img/Thumbs.db
+
