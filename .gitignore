@@ -3,8 +3,8 @@ Thumbs.db
 # игнорируем файл .DS_Store
 .DS_Store
 # игнорируем папку tmp
-/tmp/
+tmp/
 # игнорируем расширение _old
-*_old
+* .html_old
 # игнорируем расширение _backup
 *_backup
